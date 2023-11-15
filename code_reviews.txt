@@ -1,0 +1,23 @@
+1.
+
+Both guidelines want code to be short and neat, and also want both reviewer and
+submitter to realize that the review is a discussion and not an insult; both
+sides should talk about thinks civil and respectfully.
+
+One difference is that the Yelp guidelines want stuff done very fast ("submit
+your code within 24 hours to the reviewer"), whereas Microsoft doesn't seem to
+have that as a guideline, just to respect the time of each other. Another difference
+is that Microsoft reviews support something called "Emoji Code", while Yelp reviews
+have nothing of the sort.
+
+2.
+https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game
+The review here is beneficial because both the poster and the commenters write
+with a fairly neutral tone and only discuss benefits that could be made to the code,
+or why "x" isn't currently working in the code.
+
+3.
+https://codereview.stackexchange.com/questions/10167/derpifying-images
+This review is a bad review because both the submitter and what seems to be the
+first reviewer are fairly unprofessional with their comments about the code and
+what can be adjusted.

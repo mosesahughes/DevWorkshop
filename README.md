@@ -1,6 +1,6 @@
 # DevWorkshop
 Learning about branches
 
-Matthew Moore (mmoore00)
+Matthew Moore (mmoore00)	%Made by Matthew
 
-Moses Huhges (mahughes)
+Moses Hughes (mahughes)		%Made by Moses
